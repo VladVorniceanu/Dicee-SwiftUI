@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Dicee-SwiftUI' in project 'Dicee-SwiftUI' (no dependencies)
+Target 'Dicee-SwiftUI' in project 'Dicee-SwiftUI' (no dependencies)

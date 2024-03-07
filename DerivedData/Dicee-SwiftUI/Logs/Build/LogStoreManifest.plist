@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>883C1A68-0569-4150-A7A5-24D6EBCE2465</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>883C1A68-0569-4150-A7A5-24D6EBCE2465.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Dicee-SwiftUI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Dicee-SwiftUI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Dicee-SwiftUI</string>
+			<key>timeStartedRecording</key>
+			<real>731509007.82315195</real>
+			<key>timeStoppedRecording</key>
+			<real>731509010.087587</real>
+			<key>title</key>
+			<string>Build for Previews Dicee-SwiftUI</string>
+			<key>uniqueIdentifier</key>
+			<string>883C1A68-0569-4150-A7A5-24D6EBCE2465</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

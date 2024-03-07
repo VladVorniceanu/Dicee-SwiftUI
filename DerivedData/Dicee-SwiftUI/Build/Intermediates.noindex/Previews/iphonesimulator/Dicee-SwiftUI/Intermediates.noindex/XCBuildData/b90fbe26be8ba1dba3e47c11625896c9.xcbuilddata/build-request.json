@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2e5367de327a0df49cee6d08f6298aed6e26fb1e82f21dbb5d4b64eea1978f1b"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/Dicee-SwiftUI.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "DSTROOT" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex/Previews/iphonesimulator/Dicee-SwiftUI/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex/Previews/iphonesimulator/Dicee-SwiftUI/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex/Previews/iphonesimulator/Dicee-SwiftUI/Products",
+          "TARGET_DEVICE_IDENTIFIER" : "D29E0ED7-031D-4348-894A-064D888D56A4",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

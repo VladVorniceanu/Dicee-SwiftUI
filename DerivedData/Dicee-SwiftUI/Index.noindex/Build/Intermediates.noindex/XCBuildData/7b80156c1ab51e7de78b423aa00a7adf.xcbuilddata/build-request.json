@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "2e5367de327a0df49cee6d08f6298aed6e26fb1e82f21dbb5d4b64eea1978f1b"
+    }
+  ],
+  "containerPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/Dicee-SwiftUI.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Build/Products",
+      "pchPath" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

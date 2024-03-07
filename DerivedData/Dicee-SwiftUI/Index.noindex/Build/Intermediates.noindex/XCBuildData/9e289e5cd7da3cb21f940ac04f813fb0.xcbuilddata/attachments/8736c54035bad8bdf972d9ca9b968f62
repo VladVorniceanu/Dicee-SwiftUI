@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/Objects-normal/arm64/Dicee-SwiftUI-master.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/Objects-normal/arm64/Dicee-SwiftUI-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/Objects-normal/arm64/Dicee-SwiftUI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/Objects-normal/arm64/Dicee-SwiftUI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/Objects-normal/arm64/Dicee-SwiftUI-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/Dicee-SwiftUI/DerivedData/Dicee-SwiftUI/Index.noindex/Build/Intermediates.noindex/Dicee-SwiftUI.build/Debug-iphoneos/Dicee-SwiftUI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Dicee-SwiftUI/Dicee-SwiftUI/ContentView.swift" : {
+
+  },
+  "/Users/vladvorniceanu/Development/Dicee-SwiftUI/Dicee-SwiftUI/Dicee_SwiftUIApp.swift" : {
+
+  }
+}
